@@ -1,0 +1,1 @@
+yolo detect train data="/mnt/c/Users/AIRSHOW/Downloads/experiment/yolo_v7_exp/dataset/job_2_dataset_2025_08_21_03_19_34_coco 1.0/merged_dataset/data.yaml" model= yolov8x.pt epochs=50 imgsz=640 batch=4
